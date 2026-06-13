@@ -1,4 +1,4 @@
-# kSJudge-redone
+# kSJudge
 [Java 17, Gradle 7.4.2.][Minecraft 1.18.2+]
 
 A Judge plugin to submit and judge plots from the PlotSquared plugin. This uses the MySQL database.
